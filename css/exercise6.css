@@ -1,0 +1,10 @@
+.container{
+    margin-top: 10px;
+    background-color: whitesmoke;
+    opacity: 0.9;
+}
+
+h1, h2 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
